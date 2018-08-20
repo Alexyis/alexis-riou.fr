@@ -1,0 +1,14 @@
+{
+  "image":              "images/lesmills-background.jpg",
+  "date":               "14 Avril 2018",
+  "title":              "LES MILLS",
+  "title_secondary":    "Vers un monde plus en forme.",
+  "start":          	"",
+  "date_project":       "2017",
+  "author":             "A. Riou",
+  "category":           "Développement",  
+  "client":             "Planet Fitness Group",
+  "adresse":			"lesmills.fr",
+  "link_project":       "<a href='http://lesmills.fr/' class='btn hide-icon mr-top' target='_blank'><span>Découvrir le site</span></a> ",
+  "content":            "<p>L'entreprise <strong>Les Mills</strong> inspire plusieurs millions de personnes à faire du sport chaque semaine.<br/> Elle s'engage avec plus de <strong>17 500 clubs de fitness</strong> partenaires dans plus de <strong>100 pays</strong> pour proposer les meilleurs cours collectifs du monde. Elle soutient ses partenaires grâce à des études scientifiques, du marketing et de nouveaux entraînements chaque trimestre.<br/> La tribu Les Mills est composée de <strong>130 000 instructeurs certifiés</strong> qui donne chaque jour vie à ces entraînements.</p><h3>Travail effectué sur le projet</h3><p>Gestion de projet et développement des sites BtoB Les Mills France (<a href='http://lesmills.fr' target='_blank'>lesmills.fr</a>) et Les Mills Italie (<a href='http://lesmills.it' target='_blank'>lesmills.it</a>) ainsi que des espaces clients liés a ces sites. Développement spécifiques (inscriptions évènementiels, administration, devis et commande dématerialisée). Optimisation et référencement.</p><h3>Langages et outils utilisés</h3><ul class='list-style'><li>(X)HTML / CSS</li><li>PHP / MySQL</li><li> JavaScript (jQuery) / AJAX</li><li>Framework CSS (Bootstrap)</li></ul>"
+}

@@ -1,0 +1,14 @@
+{
+  "image":              "images/pfm-background.jpg",
+  "date":               "15 Avril 2018",
+  "title":              "PLANET FITNESS MANAGEMENT",
+  "title_secondary":    "Le magazine des professionnels de la forme et de la santé",
+  "start":          	"",
+  "date_project":       "2017",
+  "author":             "A. Riou",
+  "category":           "Développement",  
+  "client":             "Planet Fitness Group",
+  "adresse":			      "planetfitnessmanagement.com",
+  "link_project":       "<a href='http://planetfitnessmanagement.com' class='btn hide-icon mr-top' target='_blank'><span>Découvrir le site</span></a> ",
+  "content":            "<p>Planet Fitness Management est le premier magazine de management sur le marché français du fitness, il s'adresse aux professionnels de la forme. Ce magazine trimestriel s'est donné pour mission de professionnaliser l'industrie du fitness.</p><h3>Travail effectué sur le projet</h3><p>Développement d'une nouvelle version du site vitrine présentant le magazine et mettant a disposition chaque trimestre la version numérique du magazine. Cette nouvelle version à eu lieu suite à la refonte graphique du magazine ayant été réalisée par Nicolas Rodriguez.</p><h3>Langages et outils utilisés</h3><ul class='list-style'><li>(X)HTML / CSS</li><li>PHP / MySQL</li><li> JavaScript (jQuery) / AJAX</li><li>Framework CSS (Bootstrap)</li></ul>"
+}

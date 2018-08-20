@@ -1,0 +1,16 @@
+{
+  "image":              "images/hbx-background.jpg",
+  "date":               "15 Avril 2018",
+  "title":              "HBX",
+  "title_secondary":    "Human Body Exercise",
+  "start":          	"",
+  "date_project":       "2015",
+  "author":             "A. Riou",
+  "category":           "Développement",  
+  "client":             "Planet Fitness Group",
+  "adresse":			      "hbxtraining.com",
+  "link_project":       "<a href='http://hbxtraining.com' class='btn hide-icon mr-top' target='_blank'><span>Découvrir le site</span></a> ",
+  "content":            "<p>HBX (Human Body Exercise) apporte du fun, de la performance et surtout des résultats concrets en se focalisant sur la qualité de l'entraînement, en Personal Training (coach personnel) et en Team Training (coach en mini groupe). HBX est issu des dernières recherches scientifiques mondiales et approuvé par des fédérations Olympiques. En partenariat avec les meilleurs experts de l’entraînement, de la nutrition et du coaching, HBX permet d’apporter une expérience et un accompagnement inoubliable, seul ou en petit groupe, avec des résultats réels et quantifiables, en améliorant votre espérance de santé jusqu’à vos performances.</p><h3>Travail effectué sur le projet</h3><p>Gestion de projet et développement d'un site vitrine one-page ainsi que d'un espace client (gestion de droits, ressources marketing, système de cryptage de liens et version multilingue). Optimisation et référencement.</p><h3>Langages et outils utilisés</h3><ul class='list-style'><li>(X)HTML / CSS</li><li>PHP / MySQL</li><li> JavaScript (jQuery) / AJAX</li><li>Framework CSS (Bootstrap)</li></ul>"
+}
+
+

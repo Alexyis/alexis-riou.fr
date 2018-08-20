@@ -1,0 +1,14 @@
+{
+  "image":              "images/ascent-background.jpg",
+  "date":               "15 Avril 2018",
+  "title":              "ASCENT INTO SPACE",
+  "title_secondary":    "Jeu IOS/Android",
+  "start":          	"",
+  "date_project":       "2015",
+  "author":             "A. Riou",
+  "category":           "Unity",  
+  "client":             "",
+  "adresse":			"",
+  "link_project":       "<a href='https://play.google.com/store/apps/details?id=com.pixelcoffee.ascent&hl=fr' class='btn hide-icon mr-top' target='_blank'><span>Découvrir l'application</span></a> ",
+  "content":            "<p>Par une nuit étoilé, une bien étonnante idée vous vient à l’esprit, partir en voyage dans l’espace grâce à votre étonnante montgolfière.</p><h3 class='bottom_30 top_30'>Concept</h3><blockquote><p class='bottom_15'>Pour survivre et atteindre le cosmos vous devrez éviter les météores qui viendront à votre rencontre, mais ce n’est pas tout. Les flux de couleurs vous permettrons de monter plus vite et ainsi marquer plus de points.</p><cite>Kévin Blanc, Chef du projet</cite></blockquote><h3 class='top_30'>Equipe</h3><ul class='list-style'><li>Initiateur du projet et développeur : Kevin Blanc</li><li>UX/UI Design et Communication : Alexis Riou</li><li>UX/UI Design et Graphisme : Nicolas Rodriguez</li></ul><div class='post-lightbox row'><img class='col-xs-6' src='images/ascent-square.jpg' alt=''><img class='col-xs-6' src='images/ascent-square2.jpg' alt=''></div>"
+}

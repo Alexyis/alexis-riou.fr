@@ -1,0 +1,14 @@
+{
+  "image":              "images/fitness-webzine.jpg",
+  "date":               "15 Avril 2018",
+  "title":              "FITNESS.FR",
+  "title_secondary":    "L'actualité fun du fitness. Training, High-Tech, Nutrition...",
+  "start":          	"",
+  "date_project":       "2017",
+  "author":             "A. Riou",
+  "category":           "Wordpress",  
+  "client":             "Planet Fitness Group",
+  "adresse":			"rocktape.fr",
+  "link_project":       "<a href='http://rocktape.fr' class='btn hide-icon mr-top' target='_blank'><span>Découvrir le site</span></a> ",
+  "content":            "<p>Fitness.fr est un webzine traitant du fitness à travers plusieurs domaines comme le training, le High-Tech, la Mode, ou encore la Nutrition. L'ambition de ce site est devenir le webzine de référence dans le monde du fitness.</p><h3>Travail effectué sur le projet</h3><p>Création d'un blog sous le CMS Wordpress. Configuration, mise en place, optimisation et maintient de la solution.</p><h3>Langages et outils utilisés</h3><ul class='list-style'><li>CMS Wordpress</li><li>Framework CSS (Bootstrap)</li><li>WPML</li><li>(X)HTML et CSS</li><li>Javascript (Jquery)</li></ul>"
+}

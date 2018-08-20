@@ -1,0 +1,16 @@
+{
+  "image":              "images/planetaqua-background.jpg",
+  "date":               "14 Avril 2018",
+  "title":              "PLANET AQUA",
+  "title_secondary":    "MAKE YOUR WAVE, Prêt pour faire des vagues ?",
+  "start":          	"<img src='images/planetaqua-start.png' class='img-responsive' style='max-width:450px;margin:auto;'>",
+  "date_project":       "2018",
+  "author":             "A. Riou",
+  "category":           "Développement",  
+  "client":             "Planet Fitness Group",
+  "adresse":			"planet-aqua.eu",
+  "link_project":       "<a href='http://planet-aqua.eu/_new' class='btn hide-icon mr-top' target='_blank'><span>Découvrir le site</span></a> ",
+  "content":            "<p>Planet Aqua met à disposition des clubs, centres nautiques et esthétiques des cours collectifs d'aquafitness. À travers 4 programmes (Aquadynamic, Aquabodybike, Aquawork et Aquacombat). Ces programmes sont une solution pour rester en bonne santé. C'est une activité sécuritaire, car sans impact, efficace grâce à la résistance de l'eau permanente et à l'intensité des exercices et qui procure des sensations de bien être grâce à l'eau.</p><h3>Travail effectué sur le projet</h3><p>Gestion de projet et développement d'une nouvelle version du site <a href='http://planet-aqua.eu/_new' target='_blank'>Planet Aqua</a> en version multilingue (France, Italie, Anglaise) ainsi que l'espace client. Développement spécifiques (inscriptions évènementiels, devis, carte des clubs partenaires avec géolocalisation, accès à des ressources clients comme des scripts d'entraînements, vidéos, ou encore musiques depuis l'espace dédié aux clients. Optimisation et référencement.</p><h3>Langages et outils utilisés</h3><ul class='list-style'><li>(X)HTML / CSS</li><li>PHP / MySQL</li><li> JavaScript (jQuery) / AJAX</li><li>Framework CSS (Bootstrap)</li></ul>"
+}
+
+

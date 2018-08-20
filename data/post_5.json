@@ -1,0 +1,14 @@
+{
+  "image":              "images/rocktape-background.jpg",
+  "date":               "15 Avril 2018",
+  "title":              "ROCKTAPE",
+  "title_secondary":    "Equipements de protection Rocktape",
+  "start":          	"",
+  "date_project":       "2017",
+  "author":             "A. Riou",
+  "category":           "Développement",  
+  "client":             "Planet Fitness Group",
+  "adresse":			"rocktape.fr",
+  "link_project":       "<a href='http://rocktape.fr' class='btn hide-icon mr-top' target='_blank'><span>Découvrir le site</span></a> ",
+  "content":            "<p>Rocktape aide les athlètes de tous les niveaux à aller plus loin, plus longtemps avec la meilleure bande de kinésiologie à la pointe. Testée par les athlètes les plus exigeants (Serena Williams ou encore Kerri Walsh) pendant l'effort et les phases de récupération. RockTape peut être utilisé pour traiter les tendinites, périostites tibiales, ou encore réduire les problèmes de dos et de posture.</p><h3>Travail effectué sur le projet</h3><p>Développement du site vitrine <a href='http://rocktape.fr'>Rockape.fr</a>. Développement d'une carte listant les experts rocktape ainsi qu'un calendrier de formations.</a></p><h3>Langages et outils utilisés</h3><ul class='list-style'><li>(X)HTML / CSS</li><li>PHP / MySQL</li><li> JavaScript (jQuery) / AJAX</li><li>Framework CSS (Bootstrap)</li></ul>"
+}
